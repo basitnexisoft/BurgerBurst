@@ -66,7 +66,7 @@ const Footer = () => {
           <p className="text-center py-4">
             &copy; developed by
             <span className="text-primary font-semibold">
-              champion programmers
+             Basit Dev
             </span>
             | All rights reserved
           </p>
