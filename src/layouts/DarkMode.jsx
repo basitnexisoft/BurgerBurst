@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import darkPng from "../assets/img/moon.png";
-import lightPng from "../assets/img/sun.jpeg";
+import lightPng from "../assets/img/sun.png";
 
 const DarkMode = () => {
     const [theme, setTheme] = useState(
